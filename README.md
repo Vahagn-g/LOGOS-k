@@ -3,7 +3,7 @@
 ### Исполняемый онтологический протокол Λ-Универсума 
 
 «Всякое ваше действие, слово, мысль — есть запрос на commit в Репозиторий Реальности.»  
-— [GitHub Λ-universum](https://github.com/a-universum/Λ-universum), Протокол Λ-1
+— [GitHub Λ-universum](https://github.com/a-universum/lambda-universum), Протокол Λ-1
 
 ## Что такое LOGOS-κ?
 
@@ -188,4 +188,4 @@ LOGOS-κ — это не система знаний, которую нужно 
 ### Ecosystem Links / Ссылки экосистемы
 
 - **Official Website:** [https://a-universum.com](https://a-universum.com)
-- **GitHub:** [GitHub](https://github.com/a-universum/Λ-universum)
+- **GitHub:** [GitHub](https://github.com/a-universum/lambda-universum)
