@@ -39,7 +39,7 @@ LOGOS-κ — специализированный язык программир�
 ### Установка
 
 ```bash
-git clone https://github.com/A-Universum/A-Universum/tree/main/ru/X-Universum/logos-k.git
+git clone https://github.com/A-Universum/logos-k/logos-k.git
 cd logos-k
 pip install -e .
 ```
@@ -79,6 +79,7 @@ logos-k run examples/lambda_genesis_enhanced.lk \
 logos-k/
 ├── README.md                      # Манифест с онтологической навигацией
 ├── pyproject.toml                 # Конфигурация проекта
+├── main.py                        # 
 ├── core/                          # Онтологическое ядро
 │   ├── __init__.py
 │   ├── axiom.py                   # Аксиомы с FAIR+CARE принципами
