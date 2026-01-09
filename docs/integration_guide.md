@@ -34,8 +34,8 @@ LOGOS-κ — не библиотека, которую «импортируют�
 
 ### Установка
 ```bash
-git clone https://github.com/a-universum/logos-k-synthetic.git
-cd logos-k-synthetic
+git clone https://github.com/a-universum/logos-k.git
+cd logos-k
 pip install -e .[ai-integration,visualization]
 ```
 
